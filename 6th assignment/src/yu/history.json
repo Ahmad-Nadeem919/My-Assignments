@@ -1,0 +1,17 @@
+[
+    {
+        "timestamp": "2025-06-17 19:03:27",
+        "user_query": "hy",
+        "assistant_response": "Hi! How can I help you today?\n"
+    },
+    {
+        "timestamp": "2025-06-17 19:03:44",
+        "user_query": "what is weather in lahore",
+        "assistant_response": "The weather in Lahore is scattered clouds with a temperature of 32.01 degrees Celsius, but it feels like 35.66 degrees Celsius. The humidity is 55%, and the wind speed is 1.03 m/s. Visibility is 6000 meters."
+    },
+    {
+        "timestamp": "2025-06-17 19:04:09",
+        "user_query": "what is price of apple",
+        "assistant_response": "What is the stock symbol for Apple?\n"
+    }
+]
